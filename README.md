@@ -22,6 +22,7 @@ In questo panel esploreremo ciò che veramente implica la Continuous Delivery e 
 - [continuousdelivery.com](https://continuousdelivery.com/)
 - [Agile Manifesto](https://agilemanifesto.org/)
 - [eXtreme Programming](http://www.extremeprogramming.org/)
+- [Blog di 20tab](https://www.20tab.com/about-us/20blog?page=1)
 - [Blog di Mia-Platform](https://blog.mia-platform.eu/it/)
 - [CNCF White Paper on Platform Engineering](https://tag-app-delivery.cncf.io/whitepapers/platforms/)
 
