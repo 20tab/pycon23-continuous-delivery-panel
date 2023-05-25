@@ -22,11 +22,13 @@ In questo panel esploreremo ciò che veramente implica la Continuous Delivery e 
 - [continuousdelivery.com](https://continuousdelivery.com/)
 - [Agile Manifesto](https://agilemanifesto.org/)
 - [eXtreme Programming](http://www.extremeprogramming.org/)
+- [Blog di Mia-Platform](https://blog.mia-platform.eu/it/)
+- [CNCF White Paper on Platform Engineering](https://tag-app-delivery.cncf.io/whitepapers/platforms/)
 
 ### Tools
 - [Talos](https://github.com/20tab/talos)
 - [Painless Contiuous Delivery](https://gitlab.com/painless-software/painless-continuous-delivery)
-- [Kube Green](https://kube-green.dev/)
+- [kube-green](https://kube-green.dev/)
 
 ### Events
 - [Product Management Day](https://www.productmanagementday.com/)
