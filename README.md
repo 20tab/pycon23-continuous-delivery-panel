@@ -28,7 +28,7 @@ In questo panel esploreremo ciò che veramente implica la Continuous Delivery e 
 
 ### Tools
 - [Talos](https://github.com/20tab/talos)
-- [Painless Contiuous Delivery](https://gitlab.com/painless-software/painless-continuous-delivery)
+- [Painless Continuous Delivery](https://gitlab.com/painless-software/painless-continuous-delivery)
 - [kube-green](https://kube-green.dev/)
 
 ### Events
